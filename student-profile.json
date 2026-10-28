@@ -1,0 +1,71 @@
+{
+  "id": "2410511106013",
+  "firstName": "ณัฐพล",
+  "lastName": "อัปการัตน์",
+  "nickname": "เฟิร์ส",
+  "university": "มหาวิทยาลัยหอการค้าไทย (UTCC)",
+  "faculty": "คณะวิทยาศาสตร์",
+  "major": "Information and Communication Technology",
+  "year": "3",
+  "gpa": "2.64",
+  "semester": "เทอมต้น",
+  "academicYear": "2569",
+  "photo": "https://i.pinimg.com/280x280_RS/fa/39/79/fa3979e7298af08c2940d03db16ab1e8.jpg",
+  "coverPhoto": "https://i.pinimg.com/originals/ec/4a/67/ec4a67af3e061dc92c2e4d1a810bcec9.gif",
+  "courses": [
+    {
+      "code": "SI342-1 ",
+      "day": "วันจันทร์",
+      "room": "15201A",
+      "building": "อาคาร 15",
+      "time": "08:30–12:20",
+      "color": "#F6C400",
+      "bg": "#FFF9E8"
+    },
+    {
+      "code": "GE923-1 ",
+      "day": "วันอังคาร",
+      "room": "7204",
+      "building": "อาคาร 07",
+      "time": "08:30–11:00",
+      "color": "#F34F9B",
+      "bg": "#FFF0F7"
+    },
+    {
+      "code": "SI443-1 ",
+      "day": "วันอังคาร",
+      "room": "1205B",
+      "building": "อาคาร 01",
+      "time": "12:20–16:10",
+      "color": "#F34F9B",
+      "bg": "#FFF0F7"
+    },
+    {
+      "code": "SI361-1 ",
+      "day": "วันพุธ",
+      "room": "1205A",
+      "building": "อาคาร 01",
+      "time": "08:30–12:20",
+      "color": "#75B900",
+      "bg": "#F7FCEB"
+    },
+    {
+      "code": "SI237-1 ",
+      "day": "วันพุธ",
+      "room": "1304",
+      "building": "อาคาร 01",
+      "time": "14:30–17:00",
+      "color": "#75B900",
+      "bg": "#F7FCEB"
+    },
+    {
+      "code": "SI227-59 ",
+      "day": "วันเสาร์",
+      "room": "15201B",
+      "building": "อาคาร 15",
+      "time": "08:30–16:10",
+      "color": "#DFA6E9",
+      "bg": "#FAF0FC"
+    }
+  ]
+}
